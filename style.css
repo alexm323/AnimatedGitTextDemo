@@ -1,10 +1,10 @@
 body {
 	display: flex;
-	justify-content: center;
-	align-items: center;
-	height: 100vh;
+	justify-content: right;
+	align-items: left;
+	height: 50vh;
 
-	background-color: goldenrod;
+	background-color: grey;
 	font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -12,5 +12,5 @@ h1 {
 	font-size: 13rem;
 }
 .letter {
-	transition: color 5000ms;
+	transition: color 1000ms;
 }
